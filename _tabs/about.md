@@ -12,7 +12,7 @@ order: 4
 🔥	Đi cùng sứ mệnh **“Make IA great again”**, đây là nơi định hướng cũng như nuôi dưỡng niềm đam mê dành cho những sinh viên ngành IA nói riêng và các sinh viên có yêu thích, chú ý với An toàn thông tin.
 
 
-​	 ![🐸](https://lh5.googleusercontent.com/vvRnN7yeOg9Hl-xa_uekJZKJxASWifD_qdC1Gx8232mvlUe9QJr9ahbodMHS_oEJbSrw4xP6BRFrKVBXVSmmzI_Qls0OPBh4syUBbRdNn15u_PjwhvkcR2OkqP7pi4W9fefOGIg8)![🐸](https://lh5.googleusercontent.com/vvRnN7yeOg9Hl-xa_uekJZKJxASWifD_qdC1Gx8232mvlUe9QJr9ahbodMHS_oEJbSrw4xP6BRFrKVBXVSmmzI_Qls0OPBh4syUBbRdNn15u_PjwhvkcR2OkqP7pi4W9fefOGIg8)![🐸](https://lh5.googleusercontent.com/vvRnN7yeOg9Hl-xa_uekJZKJxASWifD_qdC1Gx8232mvlUe9QJr9ahbodMHS_oEJbSrw4xP6BRFrKVBXVSmmzI_Qls0OPBh4syUBbRdNn15u_PjwhvkcR2OkqP7pi4W9fefOGIg8) **Giới thiệu cơ bản về các ban trong EHC** ![🐸](https://lh5.googleusercontent.com/vvRnN7yeOg9Hl-xa_uekJZKJxASWifD_qdC1Gx8232mvlUe9QJr9ahbodMHS_oEJbSrw4xP6BRFrKVBXVSmmzI_Qls0OPBh4syUBbRdNn15u_PjwhvkcR2OkqP7pi4W9fefOGIg8)![🐸](https://lh5.googleusercontent.com/vvRnN7yeOg9Hl-xa_uekJZKJxASWifD_qdC1Gx8232mvlUe9QJr9ahbodMHS_oEJbSrw4xP6BRFrKVBXVSmmzI_Qls0OPBh4syUBbRdNn15u_PjwhvkcR2OkqP7pi4W9fefOGIg8)![🐸](https://lh5.googleusercontent.com/vvRnN7yeOg9Hl-xa_uekJZKJxASWifD_qdC1Gx8232mvlUe9QJr9ahbodMHS_oEJbSrw4xP6BRFrKVBXVSmmzI_Qls0OPBh4syUBbRdNn15u_PjwhvkcR2OkqP7pi4W9fefOGIg8)
+​	            **Giới thiệu cơ bản về các ban trong EHC** 
 
 **Ban Chuyên Môn :**
 
@@ -33,6 +33,7 @@ Nếu bạn đam mê và đã có kiến thức về Hacking và Security thì h
 - Tổ chức ra các buổi thi Code War, các buổi Contest. Những cuộc đấu trí này nghe có vẻ rất máu lửa nhưng nó lại mang đến rất nhiều tiếng cười cho những thành viên tham gia thi đấu. Đây cũng là dịp để các thành viên EHC ôn luyện lại những kĩ năng, kiến thức đã học.
 
 - Không chỉ được tham gia các hoạt động ngoại khóa, các thành viên ban Văn hóa cũng được training về Hacking và bảo mật. Nếu chưa có nhiều kiến thức về bảo mật, ban Văn hóa là nơi lý tưởng để bạn bắt đầu tìm hiểu về bảo mật từ cơ bản đến nâng cao
+
 **Ban Truyền Thông :**
 
 - Tuy EHC cũng là một CLB học thuật như những người anh em khác trong FU-HL nhưng lại rất ít người biết đến . Để thực hiện ước mơ một EHC chỉ cần nhắc đến tên mà ai cũng biết thì ban Truyền Thông là ban không thể thiếu .
