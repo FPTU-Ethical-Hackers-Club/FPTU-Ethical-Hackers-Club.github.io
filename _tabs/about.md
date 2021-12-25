@@ -16,28 +16,26 @@ order: 4
 
 **Ban Chuyên Môn :**
 
-- Là lực lượng kiến thức chuyên môn vững chắc, ban Chuyên môn là thành phần chủ chốt, đầu tàu giúp duy trì và phát triển trình độ của câu lạc bộ.
+- Là lực lượng kiến thức chuyên môn vững chắc, ban Chuyên môn là thành phần chủ chốt, đầu tàu giúp duy trì và phát triển trình độ của câu lạc bộ. Đây cũng là nơi sản sinh ra những team CTF nổi tiếng của trường ĐH FPT như z3r0_n1ght, str0k, AmongUs,... với đầu tàu là những người anh đã và đang đóng góp rất lớn cho ngành ATTT tại VN hiện nay.
 
+- Không chỉ cần có tư duy “đỉnh kout”, thành viên ban Chuyên môn phải luôn luôn chăm chỉ tìm tòi và trau dồi kiến thức về lập trình, bảo mật, mang trong mình “độ lì” và “sức chịu đựng” đủ cao của một “hackerman”. Do tính đặc thù này mà sau khi đăng ký vào ban Chuyên môn, các bạn sẽ phải trải qua một bài test năng lực ngay sau vòng đơn.
 
+- Đến với ban Chuyên môn, các bạn sẽ có cơ hội làm việc và học tập cùng những thành viên "tay to", dày dặn kinh nghiệm làm việc trong ngành của CLB, tham gia đội tuyển “Sinh viên An Toàn Thông Tin” của trường, cũng như đội CTF của riêng CLB EHC để có cơ hội đi chinh chiến mọi giải CTF trên khắp VN và thế giới. Không những vậy, mỗi kỳ học CLB đều tổ chức ít nhất một event học thuật nội bộ (VD: CodeandPunch, EHC CTF…) nơi các thành viên Ban chuyên môn có thể thỏa sức thể hiện khả năng “gánh team” của mình.
 
-- Không chỉ cần có tư duy logic, thành viên ban Chuyên môn luôn chăm chỉ tìm tòi và trau dồi kiến thức về lập trình, hacking và bảo mật.
-
-- Đến với ban Chuyên môn, các bạn sẽ có cơ hội làm việc và học tập cùng những thành viên "tay to" của club, tham gia đội tuyển An Toàn Thông Tin của trường, chia sẻ cũng như nhận lại những kiến thức chuyên ngành. Không những vậy, 
-
-Nếu bạn đam mê và đã có kiến thức về Hacking và Security thì hãy nhanh tay đăng kí ngay vào chuyên môn chúng mình nào .
+Nếu bạn đam mê và đã có kiến thức về Hacking và Coding thì hãy nhanh tay đăng ký ngay vào chuyên môn chúng mình nào!
 
 **Ban Văn Hóa :**
 
-- Nếu ban Chuyên môn luôn tìm tòi, học tập và khám phá các kĩ năng hacking, các phương pháp mới để truyền tải cho anh em trong CLB thì ban Văn hóa như một sợi dây gắn kết các thành viên lại với nhau.
+- Được mệnh danh là “Nhà hát của những NSND”, ban Văn hóa như một sợi dây gắn kết các thành viên trong CLB EHC lại với nhau.
 
-- Tổ chức ra các buổi thi Code War, các buổi Contest. Những cuộc đấu trí này nghe có vẻ rất máu lửa nhưng nó lại mang đến rất nhiều tiếng cười cho những thành viên tham gia thi đấu. Đây cũng là dịp để các thành viên EHC ôn luyện lại những kĩ năng, kiến thức đã học.
+- Nhiệt huyết, nhanh nhạy và có khả năng “tấu hài” - đó là những yêu cầu không thể của một thành viên ban Văn hóa. Công việc chính của ban Văn hóa đó là tổ chức những event “hâm nóng tình anh em” như Team building, Sinh nhật CLB… bên cạnh những event học thuật “căng não” của ban Chuyên môn.
 
-- Không chỉ được tham gia các hoạt động ngoại khóa, các thành viên ban Văn hóa cũng được training về Hacking và bảo mật. Nếu chưa có nhiều kiến thức về bảo mật, ban Văn hóa là nơi lý tưởng để bạn bắt đầu tìm hiểu về bảo mật từ cơ bản đến nâng cao
+- Nhưng không phải chỉ biết mỗi “tấu hài” không thôi nhé, các thành viên ban Văn hóa cũng được training về Hacking và Coding. Nếu chưa có nhiều nền tảng về ngành ATTT hay khả năng lập trình còn hạn chế, ban Văn hóa là nơi lý tưởng để bạn bắt đầu tìm hiểu về bảo mật từ cơ bản đến nâng cao.
 
 **Ban Truyền Thông :**
 
-- Tuy EHC cũng là một CLB học thuật như những người anh em khác trong FU-HL nhưng lại rất ít người biết đến . Để thực hiện ước mơ một EHC chỉ cần nhắc đến tên mà ai cũng biết thì ban Truyền Thông là ban không thể thiếu .
- Khi vào ban Truyền Thông mọi người ngoài việc tuyên truyền EHC đến mọi người thì thành viên ban cũng cần một số kĩ năng nhỏ như design đơn giản , viết bài , và điều đặc biệt khi đăng ký vào ban Truyền Thông chỉ cần bạn có máy ảnh sẽ là một ưu thế rất lớn rồi.
+- Tuy EHC cũng là một CLB học thuật như những người anh em khác tại ĐH FPT nhưng trước đây lại rất ít người biết đến sự tồn tại của chúng mình. Hiểu được điều đó nên EHC những năm gần đây đã thực hiện quá trình lột xác, “chui ra khỏi vỏ bọc của chính mình”. Và để thực hiện những bước chuyển mình đó thì ban Truyền Thông là ban không thể thiếu.
 
+-  Thành viên ban Truyền thông mang trong mình một nhiệm vụ hết sức cao cả. Đó không chỉ là mang hình ảnh của EHC đến với cộng đồng bảo mật, mà còn giúp mọi người tiếp cận các vấn đề về ngành An ninh Mạng thông qua những bài post tươi vui, hài hước và “nhiều meme”, đúng như tôn chỉ “Make cyber security easier to learn” của EHC. Để trở thành một thành viên ban Truyền thông, bạn cần có các kĩ năng như design và edit ảnh, tạo content và viết bài, sẽ là điểm cộng tuyệt vời nếu bạn biết một chút về chụp ảnh.
 
--  Cũng là những thành viên của EHC thì các thành viên ban Truyền Thông cũng được training đầy đủ như những thành viên ban Văn Hóa , dù bạn chưa có nhiều kiến thức về bảo mật .
+- Cũng là những thành viên của EHC thì các thành viên ban Truyền Thông cũng được training đầy đủ như những thành viên ban Văn Hóa , dù bạn chưa có nhiều kiến thức về bảo mật.
