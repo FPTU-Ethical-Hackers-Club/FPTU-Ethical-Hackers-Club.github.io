@@ -3,7 +3,7 @@ title: Asian Cyber Security Challenge 2021 | Forensics Writeup | Nyong Coin, Bit
 author:
   name: n3ddih
   link: https://github.com/n3ddih
-date: 2021-09-22 22:20:00 +0700
+date: 2021-09-22 23:20:00 +0700
 categories: [CTF, Forensics Challenges]
 tags: [writeups, forensics, acsc21]
 mermaid: true
