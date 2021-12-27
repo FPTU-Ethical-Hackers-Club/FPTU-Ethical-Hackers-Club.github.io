@@ -7,6 +7,7 @@ date: 2021-12-08 11:22:00 +0700
 categories: [CTF, Web Challenges]
 tags: [writeups, web, isitdtu21]
 mermaid: true
+render_with_liquid: false
 ---
 
 ## :memo: TLDR:
