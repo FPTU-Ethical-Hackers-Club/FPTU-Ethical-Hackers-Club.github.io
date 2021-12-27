@@ -10,12 +10,12 @@ mermaid: true
 render_with_liquid: false
 ---
 
-## :memo: TLDR:
+## ![image](https://user-images.githubusercontent.com/61876488/147461703-92698857-2d41-44fa-83bc-825b67e3d567.png) TLDR:
 
 Ở [ISITDTU CTF 2021](https://ctftime.org/event/1464) thì team [0ni0n](https://ctftime.org/team/162744) của mình đã không vào được Final. Tuy nhiên, với tinh thần tham gia giải lần đầu để học hỏi là chính thì mình quyết định write-up lại toàn bộ web challenge ở vòng Quals này, kể cả các challenge mình chưa giải được, nhìn chung tất cả đều thú vị và nhiều "hành".
 
 
-## :rocket: simpleWAF
+## ![image](https://user-images.githubusercontent.com/61876488/147461736-3c4051fc-e4e0-44ac-be5b-3bff75f4ed09.png) simpleWAF
 
 > Đây là challenge web đầu và cũng là dễ nhất trong 4 challenge của ISITDTU CTF năm nay. Dù vậy vì một số lí do ngu người nên mất cả buối sáng mình mới solve đc bài này.
 
@@ -142,7 +142,7 @@ https://simplewaf.duckdns.org/6ef051ac3d7b644cb6b3c22fef5677a1/?xss=%3Cimg%20src
 
 Flag: `ISITDTU{64858f4560416acff930bf673b5046911947a26e}`
 
-## :rocket: lastpoint
+## ![image](https://user-images.githubusercontent.com/61876488/147461736-3c4051fc-e4e0-44ac-be5b-3bff75f4ed09.png) lastpoint
 
 > Challenge này thì nhờ 1 chút "rùa" và chăm đọc cheat sheet mà mình giải nhanh hơn bình thường :D
 
@@ -291,7 +291,7 @@ http://[0:0:0:0:0:ffff:127.0.0.1]/home.php?id=1%20union%20select%201,make_set(1%
 
 Flag: `ISITDTU{w0w_SSRF_ch4in_SQLI_3Zzzz_h3he_!!!!}`
 
-## :rocket: ez get flag
+## ![image](https://user-images.githubusercontent.com/61876488/147461736-3c4051fc-e4e0-44ac-be5b-3bff75f4ed09.png) ez get flag
 
 > Hơi đáng tiếc vì mình không thể clear được challenge này trong thời gian của cuộc thi. Nhưng không sao, năng lực của mình chỉ đến vậy thì phải chấp nhận, quan trọng là mình đã không chán nản mà vẫn tiếp tục cày cho tới khi clear challenge này, kể cả khi ISITDTU CTF đã end.
 
