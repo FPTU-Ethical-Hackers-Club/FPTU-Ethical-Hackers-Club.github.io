@@ -13,7 +13,7 @@ mermaid: true
 
 ## Description
 
-Download file: [link](yellow_dot.pdf)
+Download file: [link](https://github.com/n3ddih/Forensics-CTF-Writeups/blob/e56e543e6f710accdacdb310ed358a4acc507327/pdf/yellow_dot/yellow_dot.pdf)
 
 [Machine Identification Code](https://en.wikipedia.org/wiki/Machine_Identification_Code)
 
