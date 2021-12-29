@@ -7,6 +7,7 @@ date: 2021-16-10 22:00:00 +0700
 categories: [CTF, Cryptographic Challenges]
 tags: [writeups, cryptographic, SVATTT2021]
 mermaid: true
+render_with_liquid: false
 ---
 
 # EasyOne
