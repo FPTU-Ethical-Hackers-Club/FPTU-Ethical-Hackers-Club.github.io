@@ -1,12 +1,12 @@
+---
 title: ASCIS (ASEAN Student Contest on Information Security) 's Cryptography Write-ups
-author: fairytypean
-  name: 
+author:
+  name: fairytypean
   link: https://github.com/thangpd3160
-date: 2021-10-16 22:34:00 +0700
+date: 2021-10-10 11:00:00 +0700
 categories: [CTF, Cryptographic Challenges]
-tags: [writeups, cryptographic, svattt2021]
+tags: [writeups, cryptographic, SVATTT2021]
 mermaid: true
-math: true
 ---
 
 # EasyOne
