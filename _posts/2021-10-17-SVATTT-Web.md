@@ -7,6 +7,7 @@ date: 2021-10-17 12:00:00 +0700
 categories: [CTF, Web Challenges]
 tags: [writeups, web, SVATTT2021]
 mermaid: true
+render_with_liquid: false
 ---
 
 > Ở SVATTT 2021 năm nay thì team mình không vượt qua vòng lại, tuy nhiên cá nhân mình vẫn solve đc 2 bài web Script Kiddie và OProxy, coi như là một kỉ niệm lần đầu đi thi SVATTT có vui lẫn buồn.
