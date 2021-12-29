@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://fptu-ethical-hackers-club.github.io/sitemap.xml
