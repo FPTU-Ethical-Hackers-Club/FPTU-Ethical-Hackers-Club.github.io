@@ -4,6 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+![logo](https://raw.githubusercontent.com/FPTU-Ethical-Hackers-Club/FPTU-Ethical-Hackers-Club.github.io/main/assets/img/avatar.png){: width="500" height="500" }
 
 **Câu lạc bộ An toàn thông tin Ethical Hacker Club(EHC) đại học FPT**
 
@@ -12,7 +13,8 @@ order: 4
 🔥	Đi cùng sứ mệnh **“Make IA great again”**, đây là nơi định hướng cũng như nuôi dưỡng niềm đam mê dành cho những sinh viên ngành IA nói riêng và các sinh viên có yêu thích, chú ý với An toàn thông tin.
 
     
-​	                         **Giới thiệu cơ bản về các ban trong EHC** 
+**Giới thiệu cơ bản về các ban trong EHC** 
+{: .center }
 
 **Ban Chuyên Môn :**
 
