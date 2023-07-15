@@ -1,10 +1,20 @@
-# HolaCTF Full HD Write-up
+---
+title: HolaCTF Full HD Write-up
+author:
+  name: FPTU-Ethical-Hackers-Club
+  link: [https://github.com/antoinenguyen-09](https://github.com/FPTU-Ethical-Hackers-Club)
+date: 2023-07-15 16:22:00 +0700
+categories: [CTF]
+tags: [writeups]
+mermaid: true
+render_with_liquid: false
+---
 
-## :rocket: Reverse Engineering
+# :rocket: Reverse Engineering
 
 ## 1. B1thon
 
-> Author: [Cao Tất Thành]()
+> Author: [Cao Tất Thành](https://github.com/TwentySick)
 
 Excutable file is built from Python, so we need [pyinstxtractor](https://github.com/extremecoders-re/pyinstxtractor) to convert excutable into [pyc] file (https://www.tutorialspoint.com/What-are-pyc-files-in-Python) and [uncompyle6](https://pypi.org/project/uncompyle6/) to decompile pyc into python source code like following:
 
